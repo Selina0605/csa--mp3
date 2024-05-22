@@ -11,6 +11,7 @@
 
 ## Prior experiences that helped...
 - Time spended on learning Math.random()
+  
 
 ## What I learned by doing this question...
 - Need to +1 to maximum in the Math.random(), so it can inclusive the number from the beginning to the end
