@@ -1,8 +1,7 @@
 # 2024 Question 1
 
 ## This question is about...
-- Create methods to simulate the amount of food is eaten
-- 
+- Create methods to simulate the amount of food is eaten and amount of food in the feeder
 
 
 ## Struggles with this question...
@@ -11,6 +10,7 @@
 
 
 ## Prior experiences that helped...
-
+- Time spended on learning Math.random()
 
 ## What I learned by doing this question...
+- Need to +1 to maximum in the Math.random(), so it can inclusive the number from the beginning to the end
