@@ -11,3 +11,4 @@
 - Practices of indexOf and substring
 
 ## What I learned by doing this question...
+- Using indexOf and substring
